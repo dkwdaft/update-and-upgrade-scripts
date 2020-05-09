@@ -1,2 +1,2 @@
-# update-and-upgrade-and-reboot
-# script to update upgrade and reboot Raspberry pi's
+# update-and-upgrade-scripts
+# script to update and upgrade packages on Raspberry pi's
